@@ -40,7 +40,7 @@ export default function Home() {
             </div>
             <div className="relative h-[400px] rounded-2xl overflow-hidden shadow-2xl">
               <Image
-                src="https://saarpharma.co.in/wp-content/uploads/2026/01/SAAR-FRONTAGE.png"
+                src="/images/SAAR FRONTAGE.png"
                 alt="SAAR Pharma Facility"
                 fill
                 className="object-cover"

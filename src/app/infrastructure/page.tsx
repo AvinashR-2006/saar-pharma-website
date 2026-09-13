@@ -7,15 +7,17 @@ export const metadata = {
 };
 
 const galleryImages = [
-    "https://saarpharma.co.in/wp-content/uploads/2026/01/image-6-.jpeg",
-    "https://saarpharma.co.in/wp-content/uploads/2026/01/image-7.jpeg",
-    "https://saarpharma.co.in/wp-content/uploads/2026/01/image-1.jpeg",
-    "https://saarpharma.co.in/wp-content/uploads/2026/01/image-2.jpeg",
-    "https://saarpharma.co.in/wp-content/uploads/2026/01/image-3.jpeg",
-    "https://saarpharma.co.in/wp-content/uploads/2026/01/image-4.jpeg",
-    "https://saarpharma.co.in/wp-content/uploads/2026/01/image-5.jpeg",
-    "https://saarpharma.co.in/wp-content/uploads/2026/01/image-8.jpeg",
-    "https://saarpharma.co.in/wp-content/uploads/2026/01/Openning.jpeg",
+    "/images/image 1.jpeg",
+    "/images/image 2.jpeg",
+    "/images/image 3.jpeg",
+    "/images/image 4.jpeg",
+    "/images/image 5.jpeg",
+    "/images/image 6 .jpeg",
+    "/images/image 7.jpeg",
+    "/images/image 8.jpeg",
+    "/images/image 9.jpeg",
+    "/images/Openning.jpeg",
+    "/images/Grand opening.jpeg",
 ];
 
 export default function InfrastructurePage() {

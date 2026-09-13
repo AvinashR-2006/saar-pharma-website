@@ -12,7 +12,7 @@ export function Footer() {
                         <Link href="/" className="inline-block bg-white/10 p-2 rounded-lg">
                             <div className="relative w-32 h-12">
                                 <Image
-                                    src="https://saarpharma.co.in/wp-content/uploads/2026/01/logo_final.png"
+                                    src="/images/logo final.png"
                                     alt="SAAR Pharma Logo"
                                     fill
                                     sizes="128px"

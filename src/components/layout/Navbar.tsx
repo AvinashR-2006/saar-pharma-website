@@ -56,7 +56,7 @@ export function Navbar() {
                     <Link href="/" className="flex items-center gap-2 z-50">
                         <div className="relative w-10 h-10 md:w-12 md:h-12 flex-shrink-0">
                             <Image
-                                src="https://saarpharma.co.in/wp-content/uploads/2026/01/logo_final.png"
+                                src="/images/logo final.png"
                                 alt="SAAR Pharma Logo"
                                 fill
                                 sizes="48px"

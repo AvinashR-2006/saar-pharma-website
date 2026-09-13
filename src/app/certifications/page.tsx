@@ -11,22 +11,22 @@ const certifications = [
     {
         name: "FSSAI",
         desc: "Food Safety and Standards Authority of India Certified",
-        logo: "https://saarpharma.co.in/wp-content/uploads/2026/01/fssai-logo.jpg",
+        logo: "/images/fssai logo.jpg",
     },
     {
         name: "ISO Certified",
         desc: "International Organization for Standardization",
-        logo: "https://saarpharma.co.in/wp-content/uploads/2026/01/ISO-logo-copie-e1768572389881.png",
+        logo: "/images/ISO logo copie.png",
     },
     {
         name: "ZED Certified",
         desc: "Zero Defect Zero Effect",
-        logo: "https://saarpharma.co.in/wp-content/uploads/2026/01/zed-logo.jpeg",
+        logo: "/images/zed logo.jpeg",
     },
     {
         name: "MSME Certified",
         desc: "Micro, Small, and Medium Enterprises",
-        logo: "https://saarpharma.co.in/wp-content/uploads/2026/01/msme-logo.jpeg",
+        logo: "/images/msme logo.jpeg",
     },
 ];
 

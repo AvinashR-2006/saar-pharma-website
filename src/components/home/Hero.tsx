@@ -11,7 +11,7 @@ export function Hero() {
             <div className="absolute inset-0 z-0">
                 <div
                     className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-                    style={{ backgroundImage: "url('https://saarpharma.co.in/wp-content/uploads/2026/01/image-7.jpeg')" }}
+                    style={{ backgroundImage: "url('/images/image 7.jpeg')" }}
                 />
                 <div className="absolute inset-0 bg-black/60" /> {/* Dark overlay */}
             </div>
